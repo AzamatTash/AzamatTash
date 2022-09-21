@@ -32,10 +32,10 @@
 <h3 align="left">Links to my projects:</h3>
 <ul>
   <li>
-    <a href="https://azamattash.github.io/React-Weather"><b>React Weather</b></a>
+    <a target="_blank" href="https://azamattash.github.io/React-Weather"><b>React Weather</b></a>
   </li>
   <li>
-    <a href="https://react-blog-frontend-azamattash.vercel.app/"><b>React Fullstack Blog</b></a>
+    <a target="_blank" href="https://react-blog-frontend-azamattash.vercel.app/"><b>React Fullstack Blog</b></a>
   </li>
 </ul>
 
