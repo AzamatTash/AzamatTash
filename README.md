@@ -38,7 +38,7 @@
     <a href="https://react-blog-frontend-azamattash.vercel.app" target="_blank"><b>React Fullstack Blog</b></a>
   </li>
   <li>
-    <a href="[https://react-blog-frontend-azamattash.vercel.app](https://foodorder-32x99yr81-azamattash.vercel.app/)" target="_blank"><b>React Food Order</b></a>
+    <a href="https://foodorder-32x99yr81-azamattash.vercel.app" target="_blank"><b>React Food Order</b></a>
   </li>
 </ul>
 
