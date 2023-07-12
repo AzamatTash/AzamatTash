@@ -1,34 +1,48 @@
-<h1 align="center"> 👋 Hey! Nice to see you.</h1>
-<h3 align="center">Welcome to my page! I'm Azamat, Frontend developer</h3>
+Hi 👋 My name is Azamat
+=======================
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=azamattash&label=Profile%20views&color=0e75b6&style=flat" alt="azamattash" /> 
- </p>
+I am a Frontend developer
+-------------------------
 
-- 👨‍💻 All of my projects are available at [https://github.com/AzamatTash?tab=repositories](https://github.com/AzamatTash?tab=repositories)
+* 🌍  I'm based in Orenburg
+* 🖥️  See my portfolio at [here](http://github.com/AzamatTash?tab=repositories)
+* ✉️  You can contact me at [azamat300698@gmail.com](mailto:azamat300698@gmail.com) / [@Azamat_3006](https://t.me/Azamat_3006)
+* 🧠  I'm learning the React Framework for the Web - Next JS
 
-- 📫 How to reach me **azamat300698@gmail.com**
+### Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h3 align="left">Links to my projects:</h3>
+<h3 align="left">Links to my educational projects:</h3>
 <ul>
   <li>
-    <a href="https://azamattash.github.io/React-Weather" target="_blank"><b>React Weather</b></a>
+    <a href="https://azamattash.github.io/React-Weather" target="_blank"><b>Weather</b></a>
   </li>
   <li>
-    <a href="https://react-blog-frontend-azamattash.vercel.app" target="_blank"><b>React Fullstack Blog</b></a>
+    <a href="https://react-blog-frontend-azamattash.vercel.app" target="_blank"><b>Blog</b></a>
   </li>
   <li>
-    <a href="https://foodorder-32x99yr81-azamattash.vercel.app" target="_blank"><b>React Food Order</b></a>
+    <a href="https://react-food-order-nine.vercel.app" target="_blank"><b>Food Order</b></a>
+  </li>
+  <li>
+    <a href="https://react-admin-dashboard-blond.vercel.app" target="_blank"><b>Client Manager</b></a>
   </li>
 </ul>
 
