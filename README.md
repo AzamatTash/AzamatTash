@@ -7,7 +7,7 @@ I am a Frontend developer
 * 🌍  I'm based in Orenburg
 * 🖥️  See my portfolio at [here](http://github.com/AzamatTash?tab=repositories)
 * ✉️  You can contact me at [azamat300698@gmail.com](mailto:azamat300698@gmail.com) / [@Azamat_3006](https://t.me/Azamat_3006)
-* 🧠  I'm learning the React Framework for the Web - Next JS
+
 
 ### Skills
 
@@ -30,28 +30,8 @@ I am a Frontend developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h3 align="left">Links to my educational projects:</h3>
-<ul>
-  <li>
-    <a href="https://azamattash.github.io/React-Weather" target="_blank"><b>Weather</b></a>
-  </li>
-  <li>
-    <a href="https://react-blog-frontend-azamattash.vercel.app" target="_blank"><b>Blog</b></a>
-  </li>
-  <li>
-    <a href="https://react-food-order-nine.vercel.app" target="_blank"><b>Food Order</b></a>
-  </li>
-  <li>
-    <a href="https://react-admin-dashboard-blond.vercel.app" target="_blank"><b>Client Manager</b></a>
-  </li>
-</ul>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamattash&show_icons=true&locale=en&layout=compact" alt="azamattash" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azamattash&" alt="azamattash" />
 </p>
 
 <p align="center">
